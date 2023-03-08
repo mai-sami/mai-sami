@@ -38,7 +38,7 @@ Webstorm, Figma, Adobe XD, Git, Postman, Jira, Trello, clickup.
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-sami&hide=html&layout=compact&theme=tokyonight"/></td> 
     </tr>   
   </table>
-</center> -->
+</center>
 
 ## :inbox_tray: Contact with me
 * inbox me : mai4.jaber43@gmail.com. 
