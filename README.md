@@ -30,7 +30,7 @@ Webstorm, Figma, Adobe XD, Git, Postman, Jira, Trello, clickup.
 
 </details>
 
-<!-- ## :zap: GitHub Stats
+ ## :zap: GitHub Stats
 <center>
   <table>
     <tr>
